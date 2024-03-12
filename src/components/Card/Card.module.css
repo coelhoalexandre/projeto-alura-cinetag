@@ -24,7 +24,8 @@
 }
 
 .favoritar {
-    width: 25px;
+    width: fit-content;
+    cursor: pointer;
 }
 
 .link {

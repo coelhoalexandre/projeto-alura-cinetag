@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    height: calc(100vh - 205.07px);
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.container h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 64px;
+}
+
+.container p {
+    font-size: 32px;
+}

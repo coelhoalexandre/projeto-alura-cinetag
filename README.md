@@ -13,23 +13,27 @@
 - [Funcionalidades do Projeto](#funcionalidades-do-projeto)
 - [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 - [Layouts](#layouts)
-  - [Desktop Layout](#desktop-layout)
-  - [Tablet Layout](#tablet-layout)
-  - [Mobile Layout](#mobile-layout)
-- [Adaptações](#adaptações)
 - [Autor](#autor)
 
 ## Sobre o Projeto
 
-
+Projeto do curso [React: praticando React com Js](https://cursos.alura.com.br/course/react-praticando-react-js), instruido por [**Mônica Hillman**](https://github.com/MonicaHillman). Esse projeto foi criado com Create React APP e abrange vários conhecimentos de React para a construção desse projeto.
 
 ## Objetivos do Projeto
 
-
+- Iniciar um projeto React;
+- Implementar rotas normais, dinamicas e aninhadas;
+- Apicar os hooks useState, useParams, useEffect e useContext;
+- Entender como funciona os contextos do React;
+- Consumir uma API.
 
 ## Funcionalidades do Projeto
 
-
+- **Home:** Abre a página principal.
+- **Favoritos:** Abre uma página onde será listado somente os vídeos que forem favoritados.
+- **Coração:** Favorita o vídeo.
+- **Clicar no banner:** É redirecionado para uma página player, com o iframe do vídeo.
+- **Página não encontrado:** Quando não há é achado uma página para o link colocado, é redirecionado para uma página que informa que não encontrou o conteúdo procurado.
 
 ## Tecnolgias Utilizadas
 
@@ -40,13 +44,13 @@
 
 ## Layouts
 
-### Desktop Layout
+**1280px:**
 
-### Tablet Layout
+**Home:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/cine-tag-home-1280px.jpg
 
-### Mobile Layout
+**Favoritos:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/cine-tag-favoritos-1280px.jpg
 
-## Adaptações
+**Não encontrada:** https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/cine-tag-nao-encontrado-1280px.jpg
 
 ## Autor
 
